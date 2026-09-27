@@ -1,0 +1,32 @@
+# SN1987A - eventos de neutrinos, 23 feb 1987. Fuente: Hirata et al. PRL 58 1490 (1987); Bionta et al. PRL 58 1494 (1987); Alekseev et al. PLB 205 209 (1988). Recopilado en Vissani, J. Phys. G 42 (2015) 013001, Tab. 1
+# t_rel_ms: tiempo relativo al primer evento de cada detector (ms). E_MeV: energia visible del e+ (MeV). angulo_deg: angulo respecto a la direccion de la LMC. fondo_Hz_MeV: tasa de fondo medida a esa energia. NA = no medido / no disponible
+detector,evento,t_rel_ms,E_MeV,dE_MeV,angulo_deg,dangulo_deg,fondo_Hz_MeV
+KII,K1,0,20.0,2.9,18,18,1.0e-5
+KII,K2,107,13.5,3.2,40,27,5.4e-4
+KII,K3,303,7.5,2.0,108,32,2.4e-2
+KII,K4,324,9.2,2.7,70,30,2.8e-3
+KII,K5,507,12.8,2.9,135,23,5.3e-4
+KII,K6,686,6.3,1.7,68,77,7.9e-2
+KII,K7,1541,35.4,8.0,32,16,5.0e-6
+KII,K8,1728,21.0,4.2,30,18,1.0e-5
+KII,K9,1915,19.8,3.2,38,22,1.0e-5
+KII,K10,9219,8.6,2.7,122,30,4.2e-3
+KII,K11,10433,13.0,2.6,49,26,4.0e-4
+KII,K12,12439,8.9,2.9,91,39,3.2e-3
+KII,K13,17641,6.5,1.6,NA,NA,7.3e-2
+KII,K14,20257,5.4,1.4,NA,NA,5.3e-2
+KII,K15,21355,4.6,1.3,NA,NA,1.8e-2
+KII,K16,23814,6.5,1.6,NA,NA,7.3e-2
+IMB,I1,0,38,7,80,10,NA
+IMB,I2,412,37,7,44,15,NA
+IMB,I3,650,28,6,56,20,NA
+IMB,I4,1141,39,7,65,20,NA
+IMB,I5,1562,36,9,33,15,NA
+IMB,I6,2684,36,6,52,10,NA
+IMB,I7,5010,19,5,42,20,NA
+IMB,I8,5582,22,5,104,20,NA
+Baksan,B1,0,12.0,2.4,NA,NA,8.4e-4
+Baksan,B2,435,17.9,3.6,NA,NA,1.3e-3
+Baksan,B3,1710,23.5,4.7,NA,NA,1.2e-3
+Baksan,B4,7687,17.5,3.5,NA,NA,1.3e-3
+Baksan,B5,9099,20.3,4.1,NA,NA,1.3e-3

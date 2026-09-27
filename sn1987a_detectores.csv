@@ -1,0 +1,5 @@
+# Parametros de los detectores (Vissani 2015, Tab. 2 y Sec. 2.2). N_p: protones libres blanco. E_umbral: umbral de analisis (MeV). fondo_30s: eventos de fondo esperados en 30 s. sigma_stat/syst: resolucion sigma(E)=s_stat*(E/10MeV)^0.5 + s_syst*(E/10MeV). hora_UT: hora absoluta del primer evento (solo IMB tiene reloj preciso)
+detector,tipo,masa_fiducial_t,N_p_1e32,E_umbral_MeV,fondo_30s,sigma_stat_MeV,sigma_syst_MeV,hora_UT_primer_evento
+KII,Cherenkov agua (Kamioka, Japon),2140,1.4,7.5,0.55,1.27,1.0,07:35:35 +-1 min
+IMB,Cherenkov agua (Ohio, EEUU),5000,4.6,15,0.01,3.0,0.4,07:35:41.37
+Baksan,centelleador liquido (Caucaso, URSS),200,0.2,10,1.0,0.0,2.0,07:36:11.818
